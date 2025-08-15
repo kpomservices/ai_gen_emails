@@ -1,0 +1,105 @@
+```mjml
+<mjml>
+  <mj-body background-color="#ffffff">
+    <!-- Header with logo and login -->
+    <mj-section padding="20px 10px" >
+      <mj-column width="50%">
+        <mj-image src="https://placehold.co/100x24?text=Logo" alt="Dittofeed" width="100" padding="0" />
+      </mj-column>
+      <mj-column width="50%" vertical-align="middle">
+        <mj-text align="right" font-size="13px" font-family="Arial, sans-serif" color="#000000" padding="0" line-height="20px">
+          Log in to app →
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Main container with light bg and content -->
+    <mj-section background-color="#f0f6fb" padding="24px 40px" >
+      <mj-column>
+        <mj-text font-family="Arial, sans-serif" font-weight="bold" font-size="23px" color="#000000" padding="0 0 12px 0" align="left" line-height="30px">
+          Get started segmenting customers!
+        </mj-text>
+        <mj-text font-family="Arial, sans-serif" font-size="14px" color="#000000" padding="0 0 25px 0" align="left" line-height="20px">
+          Segmenting users with Dittofeed is simple. Select traits from your CDP or database, then copy the trait names into a new Dittofeed segment.
+        </mj-text>
+        <mj-button background-color="#49a9c8" color="#ffffff" font-family="Arial, sans-serif" font-weight="normal" font-size="15px" padding="10px 25px" border-radius="3px" href="#" align="left">
+          Create your first segment
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Step 1 -->
+    <mj-section padding="25px 40px 0 40px">
+      <mj-column width="30px">
+        <mj-text font-family="Arial, sans-serif" font-size="16px" color="#ffffff" background-color="#0051b8" line-height="30px" align="center" padding="6px 9px" border-radius="3px">
+          1
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text font-family="Arial, sans-serif" font-weight="bold" font-size="18px" color="#004372" padding="0 0 8px 8px" align="left" line-height="24px">
+          Connect customer data
+        </mj-text>
+        <mj-text font-family="Arial, sans-serif" font-size="12px" color="#000000" padding="0 0 12px 8px" align="left" line-height="17px">
+          Integrate Segment/Rudderstack CDP or submit events directly via the Dittofeed API.
+        </mj-text>
+        <mj-text font-family="Arial, sans-serif" font-weight="bold" font-size="12px" color="#004372" padding="0 0 0 8px" align="left" line-height="17px" >
+          Integration docs →
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Step 2 -->
+    <mj-section padding="25px 40px 0 40px">
+      <mj-column width="30px">
+        <mj-text font-family="Arial, sans-serif" font-size="16px" color="#ffffff" background-color="#0051b8" line-height="30px" align="center" padding="6px 9px" border-radius="3px">
+          2
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text font-family="Arial, sans-serif" font-weight="bold" font-size="18px" color="#004372" padding="0 0 8px 8px" align="left" line-height="24px">
+          Create a new customer segment
+        </mj-text>
+        <mj-text font-family="Arial, sans-serif" font-size="12px" color="#000000" padding="0 0 12px 8px" align="left" line-height="17px">
+          From Dittofeed’s segmentation page, create a segment with event names from your event logs.
+        </mj-text>
+        <mj-text font-family="Arial, sans-serif" font-weight="bold" font-size="12px" color="#004372" padding="0 0 0 8px" align="left" line-height="17px" >
+          Segment node docs →
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Step 3 -->
+    <mj-section padding="25px 40px 0 40px">
+      <mj-column width="30px">
+        <mj-text font-family="Arial, sans-serif" font-size="16px" color="#ffffff" background-color="#0051b8" line-height="30px" align="center" padding="6px 9px" border-radius="3px">
+          3
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text font-family="Arial, sans-serif" font-weight="bold" font-size="18px" color="#004372" padding="0 0 8px 8px" align="left" line-height="24px">
+          Use segments in customer journeys
+        </mj-text>
+        <mj-text font-family="Arial, sans-serif" font-size="12px" color="#000000" padding="0 0 12px 8px" align="left" line-height="17px">
+          Load your segments into a new journey node to configure which customers receive messages.
+        </mj-text>
+        <mj-text font-family="Arial, sans-serif" font-weight="bold" font-size="12px" color="#004372" padding="0 0 0 8px" align="left" line-height="17px" >
+          Journey docs →
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer container with instructions -->
+    <mj-section background-color="#f0f6fb" padding="24px 40px">
+      <mj-column>
+        <mj-text font-family="Arial, sans-serif" font-size="13px" color="#000000" padding="0 0 12px 0" line-height="18px" align="left">
+          For help setting up segments <a href="#" style="color:#004372; text-decoration:none;">contact support</a>, or <a href="#" style="color:#004372; text-decoration:none;">watch our video tutorial</a> on using Dittofeed segmentation.
+        </mj-text>
+        <mj-text font-family="Arial, sans-serif" font-size="13px" color="#000000" line-height="18px" align="left" padding="0">
+          Alternatively, you can <a href="#" style="color:#004372; text-decoration:none;">join our Slack community</a> and post to the "help-and-questions" channel.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
+```
