@@ -1,0 +1,95 @@
+```mjml
+<mjml>
+  <mj-body width="600px">
+    <mj-section background-color="#c8d2db" padding="10px 0 10px 0">
+      <mj-column width="50%">
+        <mj-text font-size="12px" color="#000000" padding="0 0 0 15px" align="left">[[HEADLINE]]</mj-text>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-text font-size="12px" color="#000000" padding="0 15px 0 0" align="right">[[PERMALINK_LABEL]]</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="10px 15px" background-color="#ffffff">
+      <mj-column width="25%" vertical-align="middle" padding="10px 0 10px 0">
+        <mj-image src="https://placehold.co/120x60?text=Logo" alt="Logo" width="120px" align="left" padding="0"></mj-image>
+      </mj-column>
+      <mj-column width="75%" vertical-align="middle" padding="10px 0 10px 0">
+        <mj-text align="left" font-size="14px" font-family="Arial, sans-serif" color="#000000" padding="0">
+          <a href="#" style="text-decoration:none;color:#000000; margin-right:20px;">Home</a>
+          <a href="#" style="text-decoration:none;color:#000000; margin-right:20px;">Features</a>
+          <a href="#" style="text-decoration:none;color:#000000;">Portfolio</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#c8d2db" padding="40px 20px">
+      <mj-column>
+        <mj-text align="center" font-size="22px" font-family="Arial, sans-serif" color="#505050" padding="0 0 10px 0">
+          More than an email template
+        </mj-text>
+        <mj-text align="center" font-size="14px" font-family="Arial, sans-serif" color="#505050" padding="0 0 20px 0">
+          Only on <a href="#" style="color:#e04e36; text-decoration:none;">Mailjet</a> template builder
+        </mj-text>
+        <mj-button background-color="#e04e36" font-size="14px" border-radius="20px" padding="10px 25px" href="#" align="center" line-height="18px">SUBSCRIBE</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding="30px 15px 10px 15px">
+      <mj-column width="33.33%" padding="0 10px 0 0">
+        <mj-image src="https://placehold.co/80x40?text=Img" alt="Icon" width="80px" align="center" padding="0"></mj-image>
+        <mj-text align="center" font-size="12px" color="#e04e36" font-family="Arial, sans-serif" font-weight="bold" padding="8px 0 5px 0">Best audience</mj-text>
+        <mj-text align="center" font-size="11px" color="#999999" font-family="Arial, sans-serif" padding="0">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eleifend sagittis nunc, et fermentum est ullamcorper dignissim.
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%" padding="0 10px 0 10px">
+        <mj-image src="https://placehold.co/80x40?text=Img" alt="Icon" width="80px" align="center" padding="0"></mj-image>
+        <mj-text align="center" font-size="12px" color="#e04e36" font-family="Arial, sans-serif" font-weight="bold" padding="8px 0 5px 0">Higher rates</mj-text>
+        <mj-text align="center" font-size="11px" color="#999999" font-family="Arial, sans-serif" padding="0">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eleifend sagittis nunc, et fermentum est ullamcorper dignissim.
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%" padding="0 0 0 10px">
+        <mj-image src="https://placehold.co/80x40?text=Img" alt="Icon" width="80px" align="center" padding="0"></mj-image>
+        <mj-text align="center" font-size="12px" color="#e04e36" font-family="Arial, sans-serif" font-weight="bold" padding="8px 0 5px 0">24/7 Support</mj-text>
+        <mj-text align="center" font-size="11px" color="#999999" font-family="Arial, sans-serif" padding="0">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eleifend sagittis nunc, et fermentum est ullamcorper dignissim.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#e04e36" padding="30px 20px 30px 20px">
+      <mj-column>
+        <mj-text align="center" font-size="18px" color="#ffffff" font-family="Arial, sans-serif" font-weight="bold" padding="0 0 10px 0">Why choose us?</mj-text>
+        <mj-divider border-color="#ffffff" border-width="1px" padding="0 150px 10px 150px"></mj-divider>
+        <mj-text align="center" font-size="11px" color="#ffffff" font-family="Arial, sans-serif" line-height="15px" padding="0">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding="30px 20px 30px 20px">
+      <mj-column width="40%" padding="0 15px 0 0">
+        <mj-image src="https://placehold.co/250x140?text=ISpark+Sound+Demos" alt="ISpark Sound Demos" width="250px" padding="0"></mj-image>
+      </mj-column>
+      <mj-column width="60%" padding="0 0 0 15px">
+        <mj-text align="left" font-family="Arial, sans-serif" font-weight="bold" font-size="14px" color="#414141" padding="0 0 10px 0">
+          Great newsletter for the best company out there
+        </mj-text>
+        <mj-text align="left" font-family="Arial, sans-serif" font-size="12px" color="#6e6e6e" line-height="18px" padding="0 0 15px 0">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+        </mj-text>
+        <mj-button background-color="#e04e36" font-size="14px" border-radius="20px" padding="6px 30px" href="#" align="left" line-height="18px">READ MORE</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#c8d2db" padding="20px 15px">
+      <mj-column>
+        <mj-text align="center" font-family="Arial, sans-serif" font-size="12px" color="#000000" padding="0 0 5px 0">[[DELIVERY_INFO]]</mj-text>
+        <mj-text align="center" font-family="Arial, sans-serif" font-size="12px" color="#000000" padding="0">[[POSTAL_ADDRESS]]</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+```
