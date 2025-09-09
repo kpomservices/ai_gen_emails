@@ -1,0 +1,103 @@
+```mjml
+<mjml>
+  <mj-body background-color="#c2cfdf" width="600px">
+    <!-- Logo and profile image -->
+    <mj-section background-color="#fff" padding="20px 0">
+      <mj-column width="100%" vertical-align="top">
+        <mj-image src="https://placehold.co/70x70" alt="Profile Image" width="70px" height="70px" padding="0" align="center"></mj-image>
+        <mj-image src="https://placehold.co/150x50?text=ARTURIA" alt="ARTURIA Logo" width="150px" height="50px" padding="10px 0 0 0" align="center"></mj-image>
+        <mj-text align="center" font-size="12px" padding="0" color="#000000" font-family="Arial, sans-serif" letter-spacing="1px">
+          _The sound explorers
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Greeting -->
+    <mj-section background-color="#2e6abd" padding="22px 40px">
+      <mj-column width="100%">
+        <mj-text align="center" color="#fff" font-size="11px" font-family="Arial, sans-serif" padding="0 0 12px 0">
+          HELLO
+        </mj-text>
+        <mj-text align="center" color="#fff" font-size="18px" font-family="Arial, sans-serif" padding="0" font-weight="600">
+          [[FirstName]]
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#2e6abd" padding="0 40px 22px 40px">
+      <mj-column width="100%">
+        <mj-divider border-color="#fff" border-width="1px" padding="0"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <!-- Thank you -->
+    <mj-section background-color="#2e6abd" padding="0 40px 22px 40px">
+      <mj-column width="100%">
+        <mj-text align="center" color="#fff" font-size="15px" font-family="Arial, sans-serif" font-weight="bold" padding="0 0 6px 0">
+          Thank you very much for your purchase.
+        </mj-text>
+        <mj-text align="center" color="#fff" font-size="12px" font-family="Arial, sans-serif" padding="0" font-weight="normal">
+          Please find the receipt below.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Order info row -->
+    <mj-section background-color="#6098ef" padding="18px 40px">
+      <mj-column width="33%">
+        <mj-text align="left" color="#fff" font-family="Arial, sans-serif" font-size="13px" font-weight="700" padding="0 0 8px 0">
+          Order Number
+        </mj-text>
+        <mj-text align="left" color="#fff" font-family="Arial, sans-serif" font-size="13px" padding="0" letter-spacing="0">
+          [[OrderNumber]]
+        </mj-text>
+      </mj-column>
+      <mj-column width="33%">
+        <mj-text align="center" color="#fff" font-family="Arial, sans-serif" font-size="13px" font-weight="700" padding="0 0 8px 0">
+          Order Date
+        </mj-text>
+        <mj-text align="center" color="#fff" font-family="Arial, sans-serif" font-size="13px" padding="0" letter-spacing="0">
+          [[OrderDate]]
+        </mj-text>
+      </mj-column>
+      <mj-column width="33%">
+        <mj-text align="right" color="#fff" font-family="Arial, sans-serif" font-size="13px" font-weight="700" padding="0 0 8px 0">
+          Total Price
+        </mj-text>
+        <mj-text align="right" color="#fff" font-family="Arial, sans-serif" font-size="13px" padding="0" letter-spacing="0">
+          [[TotalPrice]]
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Buttons -->
+    <mj-section background-color="#2e6abd" padding="15px 40px 20px 40px">
+      <mj-column width="50%" vertical-align="middle">
+        <mj-button background-color="#ff9a00" color="#fff" font-family="Arial, sans-serif" font-size="13px" font-weight="700" padding="0" inner-padding="9px 20px" border-radius="8px" href="#" align="left">
+          Download Receipt
+        </mj-button>
+      </mj-column>
+      <mj-column width="50%" vertical-align="middle">
+        <mj-button background-color="#ff9a00" color="#fff" font-family="Arial, sans-serif" font-size="13px" font-weight="700" padding="0" inner-padding="9px 20px" border-radius="8px" href="#" align="right">
+          Track My Order
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#2e6abd" padding="0 40px 20px 40px">
+      <mj-column width="100%">
+        <mj-divider border-color="#fff" border-width="1px" padding="0"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-section background-color="#2e6abd" padding="20px 40px 20px 40px">
+      <mj-column width="100%">
+        <mj-text align="center" font-size="13px" font-family="Arial, sans-serif" color="#fff" padding="0" line-height="1.5" font-weight="normal">
+          Best,<br />The [[CompanyName]] Team
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+```
