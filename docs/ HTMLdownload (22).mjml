@@ -1,0 +1,114 @@
+<mjml>
+  <mj-body background-color="#ffffff">
+    <!-- Logo and top banner -->
+    <mj-section padding="20px 0 10px 0">
+      <mj-column>
+        <mj-image src="https://placehold.co/120x30?text=Ticketpro+Logo" alt="Ticketpro Logo" width="120px" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#003060" padding="5px 0">
+      <mj-column>
+        <mj-text align="center" color="#ffff00" font-weight="bold" font-size="14px" padding="5px 0" line-height="18px" font-family="Arial, sans-serif">
+          TIME IS RUNNING OUT TO REGISTER!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Main promotional image with new dates banner -->
+    <mj-section background-color="#00b56a" padding="0 0 20px 0">
+      <mj-column>
+        <mj-image 
+          src="https://placehold.co/600x250?text=New+dates+26+DEC+2025+-+25+JAN+2026+%7C+Want+in+first%3F" 
+          alt="Want in first? Get early access" 
+          padding="0" 
+          width="600px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Pre-sale access text -->
+    <mj-section padding="0 25px 15px 25px">
+      <mj-column>
+        <mj-text align="left" font-weight="bold" font-size="18px" font-family="Arial, sans-serif" color="#003060" padding="0">Your pre-sale access to Season 4 tickets awaits!</mj-text>
+        <mj-text align="left" font-size="13px" font-family="Arial, sans-serif" color="#003060" padding="5px 0 0 0" line-height="18px">
+          The countdown to Betway SA20 Season 4 has begun! With the Auction taking place this Tuesday, the excitement is building for another season of unmissable clashes.
+        </mj-text>
+        <mj-text align="left" font-size="13px" font-family="Arial, sans-serif" color="#003060" padding="5px 0 0 0" line-height="18px">
+          Now is the time to guarantee your spot by <a href="#" style="color:#0073e6; text-decoration:none;">registering for the Season 4 pre-sale</a> before it closes in less than two weeks!
+        </mj-text>
+        <mj-text align="left" font-weight="bold" font-size="13px" font-family="Arial, sans-serif" color="#003060" padding="10px 0 5px 0" line-height="16px">
+          Unlock this exclusive window:
+        </mj-text>
+        <mj-text align="left" font-size="12px" font-family="Arial, sans-serif" color="#003060" padding="0 0 15px 15px" line-height="16px">
+          1&#x23; Register before midnight on Monday, 15 September<br />
+          2&#x23; Pre-sale opens Wednesday, 17 September<br />
+          3&#x23; Closes Thursday, 9 October
+        </mj-text>
+        <mj-button background-color="#003060" color="#ffffff" font-family="Arial, sans-serif" font-weight="bold" padding="10px 25px" border-radius="5px" href="#" align="left">
+          REGISTER NOW
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-divider border-width="0" padding="0" />
+
+    <!-- Auction list and Betway SA20 section -->
+    <mj-section padding="0 25px 15px 25px">
+      <mj-column width="35%">
+        <mj-image src="https://placehold.co/200x160?text=Season+4+Auction+List+Is+Out" alt="Season 4 Auction List Is Out" padding="0" width="200px" />
+      </mj-column>
+      <mj-column width="65%">
+        <mj-text align="left" font-weight="bold" font-family="Arial, sans-serif" font-size="13px" color="#003060" padding="0 0 10px 0" line-height="16px">
+          Betway SA20 receives unprecedented registrations
+        </mj-text>
+        <mj-text align="left" font-size="12px" font-family="Arial, sans-serif" color="#003060" padding="0 0 15px 0" line-height="17px">
+          South Africa's top talent and a host of international stars headline the Player List ahead of Tuesday's Auction. Over 500 players will go under the gavel next week as the six franchises finalise their 19-player squads ahead of Season 4.
+        </mj-text>
+        <mj-button background-color="#003060" color="#ffffff" font-family="Arial, sans-serif" font-weight="bold" padding="8px 20px" border-radius="5px" href="#" align="left" font-size="12px">
+          FULL AUCTION LIST
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-divider border-width="0" padding="0" />
+
+    <!-- Watch auction live and auction date -->
+    <mj-section padding="0 25px 15px 25px">
+      <mj-column width="50%">
+        <mj-text align="left" font-weight="bold" font-family="Arial, sans-serif" font-size="13px" color="#003060" padding="0 0 10px 0" line-height="16px">
+          How to watch the Auction Live
+        </mj-text>
+        <mj-text align="left" font-size="12px" font-family="Arial, sans-serif" color="#003060" padding="0 0 10px 0" line-height="17px">
+          The final countdown to the Season 4 Auction is on! Watch every pick live this Tuesday, as the six teams splash the cash and build their squads. Subscribe to our YouTube channel so you don't miss out on the action.
+        </mj-text>
+        <mj-button background-color="#003060" color="#ffffff" font-family="Arial, sans-serif" font-weight="bold" padding="8px 20px" border-radius="5px" href="#" align="left" font-size="12px">
+          SUBSCRIBE NOW
+        </mj-button>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image src="https://placehold.co/250x170?text=Auction+9+September+2025" alt="Auction 9 September 2025" padding="0" width="250px" />
+      </mj-column>
+    </mj-section>
+
+    <mj-divider border-width="0" padding="0" />
+
+    <!-- Hermann brothers & Every teams squad -->
+    <mj-section padding="0 25px 15px 25px">
+      <mj-column width="50%">
+        <mj-image src="https://placehold.co/270x120?text=Hermann+Brothers" alt="Hermann brothers relive back garden memories" padding="0" width="270px" />
+        <mj-text align="left" font-weight="bold" font-family="Arial, sans-serif" font-size="13px" color="#003060" padding="10px 0 5px 0" line-height="16px">
+          Hermann brothers relive back garden memories
+        </mj-text>
+        <mj-text align="left" font-size="12px" font-family="Arial, sans-serif" color="#003060" padding="0 0 0 0" line-height="17px">
+          The Hermann brothers put on a show for South Africa 'A', reliving their years of batting together in the back garden, with a sensational 154-run second-wicket partnership that sealed the series for the hosts.
+        </mj-text>
+        <mj-button background-color="#003060" color="#ffffff" font-family="Arial, sans-serif" font-weight="bold" padding="8px 20px" border-radius="5px" href="#" align="left" font-size="12px" margin="15px 0 0 0">
+          READ MORE
+        </mj-button>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image src="https://placehold.co/270x120?text=Team+Season+4+Squad" alt="Every team squad" padding="0" width="270px" />
+        <mj-text align="left" font-weight="bold" font-family="Arial, sans-serif" font-size="13px" color="#003060" padding="10px 0 5px 0" line-height="16px">
+          Every team's Season 4 squad as it stands
+        </mj-text>
+        <mj-text align="left" font-size="12px" font-family="Arial, sans-serif" color="#003060" padding="0 0 0 0" line-height="17px">
+          At the 2025 Player Auction, 541 players are vying for the remaining 84 player slots up for grabs. With a collective purse
