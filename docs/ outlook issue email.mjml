@@ -1,0 +1,121 @@
+```mjml
+<mjml>
+  <mj-body width="600px" background-color="#ffffff" font-family="Arial, sans-serif">
+    <!-- Logo -->
+    <mj-section padding="20px 0 10px 0">
+      <mj-column>
+        <mj-image src="https://placehold.co/140x31?text=Ticketpro+Logo" alt="Ticketpro Logo" width="140px" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <!-- TIME IS RUNNING OUT TO REGISTER! -->
+    <mj-section background-color="#1d3352" padding="10px 0">
+      <mj-column>
+        <mj-text font-weight="bold" font-size="16px" color="#fff" align="center" padding="0" line-height="1">
+          TIME IS RUNNING OUT TO REGISTER!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Top repeated new dates bar -->
+    <mj-section background-color="#ff00cc" padding="5px 0">
+      <mj-column>
+        <mj-text color="#fff" font-weight="bold" font-size="13px" align="center" padding="0" line-height="1">
+          NEW DATES&nbsp;&nbsp;&nbsp;&nbsp;26 DEC 2025 - 25 JAN 2026&nbsp;&nbsp;&nbsp;&nbsp;NEW DATES&nbsp;&nbsp;&nbsp;&nbsp;26 DEC 2025 - 25 JAN 2026&nbsp;&nbsp;&nbsp;&nbsp;NEW DATES
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Main banner with image and main text overlay -->
+    <mj-section padding="0" background-color="#000000">
+      <mj-column>
+        <mj-image src="https://placehold.co/600x270?text=Main+Banner+Image" alt="Main Banner" padding="0"></mj-image>
+        <mj-text align="center" color="#b0ef34" font-weight="bold" font-size="30px" padding="10px 25px 5px 25px" line-height="1.1">
+          WANT IN FIRST?
+        </mj-text>
+        <mj-text font-size="16px" color="#ffffff" align="center" padding="0 25px 10px 25px" line-height="1.2">
+          GET EARLY ACCESS TO <span style="color:#b06df3;">THE BEST<br />TICKETS AT THE BEST PRICES.</span>
+        </mj-text>
+        <mj-button background-color="#ff00cc" color="#ffffff" font-weight="bold" border-radius="2px" padding="0 100px 15px 100px" font-size="16px" href="#" line-height="1">
+          REGISTER NOW
+        </mj-button>
+        <mj-text font-size="16px" color="#ffffff" align="center" padding="0 0 12px 0" line-height="1">
+          betway <span style="font-weight:900; letter-spacing:2px">××</span> SA20
+        </mj-text>
+        <mj-text font-size="9px" color="#cccccc" align="right" padding="0 25px 10px 25px" line-height="1">
+          Ts & Cs Apply
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Your pre-sale access... -->
+    <mj-section padding="20px 30px 15px 30px">
+      <mj-column>
+        <mj-text font-size="18px" font-weight="bold" color="#0b324d" align="center" padding="0 15px 15px 15px" line-height="1.2">
+          Your pre-sale access to Season 4 tickets awaits!
+        </mj-text>
+        <mj-text font-size="12.5px" color="#0b324d" align="center" padding="0 25px 15px 25px" line-height="1.4">
+          The countdown to Betway SA20 Season 4 has begun! With the Auction taking place this Tuesday, the excitement is building for another season of unmissable clashes.
+          <br /><br />
+          Now is the time to guarantee your spot by <b>registering for the Season 4 pre-sale</b> before it closes in less than two weeks!
+        </mj-text>
+        <mj-text font-size="13px" font-weight="bold" color="#0b324d" align="center" padding="0 25px 10px 25px" line-height="1.3">
+          Unlock this exclusive window:
+        </mj-text>
+        <mj-text font-size="11px" color="#0b324d" align="center" padding="0 25px 10px 25px" line-height="1.2">
+          <span>1️⃣</span> Register before midnight on Monday, 15 September<br />
+          <span>2️⃣</span> Pre-sale opens Wednesday, 17 September<br />
+          <span>3️⃣</span> Closes Thursday, 9 October
+        </mj-text>
+        <mj-button background-color="#0b324d" color="#fff" font-weight="bold" border-radius="3px" href="#" padding="10px 70px 0 70px" font-size="15px">
+          REGISTER NOW
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Season 4 Auction List image and text side by side-->
+    <mj-section padding="20px 30px">
+      <mj-column width="50%">
+        <mj-image src="https://placehold.co/270x200?text=SEASON+4+AUCTION+LIST+IS+OUT" alt="Season 4 Auction List" padding="0"></mj-image>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-text font-size="13px" font-weight="bold" color="#0b324d" align="left" padding="20px 15px 15px 15px" line-height="1.3">
+          Betway SA20 receives unprecedented registrations
+        </mj-text>
+        <mj-text font-size="12px" color="#0b324d" align="left" padding="0 15px 10px 15px" line-height="1.4">
+          South Africa’s top talent and a host of international stars headline the Player List ahead of Tuesday’s Auction.
+          Over 500 players will go under the gavel next week as the six franchises finalise their 19-player squads ahead of Season 4.
+        </mj-text>
+        <mj-button background-color="#0b324d" color="#fff" font-weight="bold" border-radius="3px" href="#" padding="10px 40px 0 40px" font-size="14px" align="left">
+          FULL AUCTION LIST
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- How to watch Auction Live text on left and image on right -->
+    <mj-section padding="25px 30px 30px 30px">
+      <mj-column width="50%">
+        <mj-text font-size="13px" font-weight="bold" color="#0b324d" align="left" padding="0 15px 10px 15px" line-height="1.3">
+          How to watch the Auction Live
+        </mj-text>
+        <mj-text font-size="11.5px" color="#0b324d" align="left" padding="0 15px 10px 15px" line-height="1.4">
+          The final countdown to the Season 4 Auction is on! Watch every pick live this Tuesday, as the six teams splash the cash and build their squads.
+          Subscribe to our YouTube channel so you don’t miss out on the action.
+        </mj-text>
+        <mj-button background-color="#0b324d" color="#fff" font-weight="bold" border-radius="3px" href="#" padding="10px 65px 0 65px" font-size="14px" align="left">
+          SUBSCRIBE NOW
+        </mj-button>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image src="https://placehold.co/270x220?text=AUCTION+9+SEPTEMBER+2025" alt="Auction Live" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <!-- Two images side by side with captions below -->
+    <mj-section padding="0 30px 25px 30px">
+      <mj-column width="50%">
+        <mj-image src="https://placehold.co/270x160?text=Hermann+brothers+image" alt="Hermann brothers relive back garden memories" padding="0 0 5px 0"></mj-image>
+        <mj-text font-size="13px" font-weight="bold" color="#0b324d" align="center" padding="0 15px 5px 15px" line-height="1.15">
+          Hermann brothers relive back garden memories
+        </mj-text>
+        <mj-text font-size="11px" color="#0b324d" align="center" padding="0 15px 20px 15px" line-height
